@@ -1,0 +1,7 @@
+##Interface: 80300
+##Name: Oonu Tribe Invite tool
+##Author: Bagauck
+##Email: lonelyretardxd@gmail.com
+##Version: 1.0.0
+##Notes: Allows Oonus to automatically invite each other
+OonuInvite.lua
